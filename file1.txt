@@ -1,1 +1,1 @@
-hello Mom
+function magica
